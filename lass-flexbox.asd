@@ -11,7 +11,7 @@
                 :serial t
                 :components
                 ((:file "lass-flexbox"))))
-  :description "Flexbox mixins for Lass."
+  :description "Flexbox for Lass."
   :long-description
   #.(uiop:read-file-string
      (uiop:subpathname *load-pathname* "README.md"))
