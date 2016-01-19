@@ -76,7 +76,7 @@ Gets compiled to this:
     -webkit-align-items: center;
     -moz-align-items: center;
     align-items: center;
-}"
+}
 ```
 
 # License
