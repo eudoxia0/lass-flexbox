@@ -1,5 +1,7 @@
 # lass-flexbox
 
+[![Build Status](https://travis-ci.org/eudoxia0/lass-flexbox.svg?branch=master)](https://travis-ci.org/eudoxia0/lass-flexbox)
+
 Flexbox for [Lass][lass]. Ported from [this library][lib] by Brian Franco.
 
 # Overview
